@@ -1,6 +1,6 @@
 # Continuous Control
 
-<img src="./img/tennis.gif" width="500" />
+<img src="./img/tennis.png" width="500" />
 
 This notebook presents the work of training two Reinforcement Learning (RL) agents to control rackets to bounce a ball over a net, in the Unity ML-Agents environment. The model that based on the Deep Deterministic Policy Gradient(DDPG) algorithm.
 
